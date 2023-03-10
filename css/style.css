@@ -110,7 +110,7 @@ li {
 }
 
 .category {
-    background: url(/img/dog_cat3.jpg);
+    background: url(../img/dog_cat3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
